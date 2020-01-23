@@ -1,0 +1,2 @@
+downstream_package_name: zeromq
+specfile_path: packaging/redhat/zeromq.spec
